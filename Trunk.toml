@@ -8,3 +8,9 @@ ignore = ["./src-tauri"]
 address = "127.0.0.1"
 port = 1420
 open = false
+
+# [[hooks]]
+# # THIS IS SO FUCKING IMPORTANT FOR TAILWIND
+# stage = "pre_build"
+# command = "nu"
+# command_arguments = ["-c", "npx tailwindcss -i ./src/input.css -o ./output.css"]

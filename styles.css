@@ -80,9 +80,9 @@ h1 {
 }
 
 button, .button {
-  font-size: 40px;
-  width: 150px;
-  height: 150px;
+  font-size: 5vh;
+  width: 20vh;
+  height: 20vh;
 
   background-color: #313244;
   color: White;

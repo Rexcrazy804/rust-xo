@@ -22,7 +22,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "learn_tauri",
+        "title": "Tic Tac Toe on Rust",
         "width": 1200,
         "height": 830
       }
